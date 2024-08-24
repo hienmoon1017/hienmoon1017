@@ -1,6 +1,8 @@
 Hello,
 
-My name is Hien Moon. I am passionate about leveraging data to enhance business outcomes and support the work of others. I'm happy with interpreting large datasets and extracting valuable insights for data-driven decision-making. It brings me joy to know that my work contributes to the success of others and the overall growth of the business.
+My name is Hien Moon. I am passionate about **leveraging data to enhance business outcomes and support the work of others**. I'm happy with **interpreting large datasets and extracting valuable insights for data-driven decision-making**. 
+
+I’m on a continuous journey to explore the fascinating world of data analysis. Whether you’re new to data or have been working with it for years, I hope you’ll find something here that resonates with you.
 
 💡 **Skills:** Data Analysis, Data Visualization, Dashboard & Report, Report Writing, Digital Transformation, Digital Marketing
 
