@@ -12,7 +12,7 @@ I’m on a continuous journey to explore the fascinating world of data analysis.
 + Visualization: Power BI, Tableau
 + Spreadsheet: MS Excel (Power Query, Power Pivot), Google Sheet
 
-⚡ **My Showcase**
+⚡ **My Showcase:**
 + Please check out my Portfolio:
 
 👋 **Let's Connect:**
