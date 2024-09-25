@@ -24,7 +24,7 @@ I’m on a continuous journey to explore the fascinating world of data analysis.
 + Bachelor of Business Administration by Vietnam National University HCM, University of Economics and Law
 
 ⚡ **My Showcase:**
-+ Please check out my Portfolio: [Portfolio](https://github.com/hienmoon1017/Portfolio)
++ Please check out my Portfolio: [Portfolio](https://github.com/hienmoon1017/Portfolio-Data-Analyst)
 
 👋 **Let's Connect:**
 + LinkedIn: [Hien Moon](https://www.linkedin.com/in/hiennt1017/)
