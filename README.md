@@ -14,9 +14,10 @@ I’m on a continuous journey to explore the fascinating world of data analysis.
 
 🏆 **My Certifications:**
 + [Google Business Intelligence](https://www.coursera.org/account/accomplishments/professional-cert/D3XDQCBXMUJH) by Google
-+ [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/verify/TDLLKWBE9BRH) by Google
 + [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/DYV8GA4AZKEX) by the University of California, Davis
 + [Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/MP5H14K02Y4R) by IBM
++ [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/verify/TDLLKWBE9BRH) by Google
+
 
 🌻 **My Education:**
 + MBA (Master of Business Administration) by Vietnam National University HCM, University of Economics and Law
