@@ -8,7 +8,7 @@ I’m on a continuous journey to explore the fascinating world of data analysis.
 
 ⭐ **Proficient Tools:** 
 + Language: SQL, Python
-+ Database: SQLite, MySQL
++ Database: PostgreSQL, SQLite, MySQL
 + Visualization: Power BI, Tableau, Looker Studio (formerly Google Data Studio)
 + Spreadsheet: MS Excel (Power Query, Power Pivot), Google Sheet
 
