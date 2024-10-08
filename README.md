@@ -7,8 +7,8 @@ I’m on a continuous journey to explore the fascinating world of data analysis.
 💡 **Skills:** Data Analysis, Data Visualization, Dashboard & Report, Report Writing, Digital Transformation, Digital Marketing
 
 ⭐ **Proficient Tools:** 
-+ Language: SQL, Python
-+ Database: PostgreSQL, SQLite, MySQL
++ Language: SQL, Python, 
++ Database: PostgreSQL, Google BigQuery, SQLite, MySQL
 + Visualization: Power BI, Tableau, Looker Studio (formerly Google Data Studio)
 + Spreadsheet: MS Excel (Power Query, Power Pivot), Google Sheet
 
