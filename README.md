@@ -16,6 +16,7 @@ I’m on a continuous journey to explore the fascinating world of data analysis.
 + [Google Business Intelligence](https://www.coursera.org/account/accomplishments/professional-cert/D3XDQCBXMUJH) by Google
 + [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/DYV8GA4AZKEX) by the University of California, Davis
 + [Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/MP5H14K02Y4R) by IBM
++ [Data Visualization with Python](https://www.coursera.org/account/accomplishments/records/H1G4DN1E5CS3) by IBM
 + [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/verify/TDLLKWBE9BRH) by Google
 
 
